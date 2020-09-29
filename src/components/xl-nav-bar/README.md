@@ -28,7 +28,7 @@ taro 3.0 + vue
 npm 安装引入：
 
 ```shell
-jnpm install taro-vue-nav
+npm install taro-vue-nav
 ```
 
 ```jsvascript
