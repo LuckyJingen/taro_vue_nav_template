@@ -1,7 +1,7 @@
 {
 	"miniprogramRoot": "dist/",
 	"projectname": "taro-vue-nav",
-	"description": "自定义taro-vue-nav",
+	"description": "自定义taro3.0-vue-nav",
 	"appid": "wxe471f12c04a53f9c",
 	"setting": {
 		"urlCheck": true,

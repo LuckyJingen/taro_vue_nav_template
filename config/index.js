@@ -1,6 +1,6 @@
 const config = {
-  projectName: 'xl-picker',
-  date: '2020-9-28',
+  projectName: 'taro-vue-nav',
+  date: '2020-9-29',
   designWidth: 750,
   deviceRatio: {
     640: 2.34 / 2,

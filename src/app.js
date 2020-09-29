@@ -1,6 +1,6 @@
 import Vue from 'vue';
 
-import navCustomBar from './components/xl-nav-bar';
+import navCustomBar from 'taro-vue-nav';
 Vue.component('nav-custom-bar', navCustomBar);
 
 const App = new Vue({
